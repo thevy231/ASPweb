@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <hr/>
+    @model dynamic
+
+    @{
+        ViewData["Title"] = "Bảng cửu chương của Nguyễn Thế Vy";
+    }
+
+    <h2>Bảng cửu chương của Nguyễn Thế Vỹ </h2>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th></th>
+                @for (int i = 1; i <= 9; i++)
+                {
+                    <th>x @i</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 1; i <= 9; i++)
+            {
+                <tr>
+                    <th>@i</th>
+                    @for (int j = 1; j <= 9; j++)
+                    {
+                        <td>@(i * j)</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
