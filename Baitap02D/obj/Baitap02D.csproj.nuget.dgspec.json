@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\asp_web\\asp_web-main\\Baitap02D\\Baitap02D.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\.limpc\\OneDrive\\Documents\\GitHub\\ASPweb\\Baitap02D\\Baitap02D.csproj": {}
   },
   "projects": {
-    "D:\\asp_web\\asp_web-main\\Baitap02D\\Baitap02D.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\.limpc\\OneDrive\\Documents\\GitHub\\ASPweb\\Baitap02D\\Baitap02D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\asp_web\\asp_web-main\\Baitap02D\\Baitap02D.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\.limpc\\OneDrive\\Documents\\GitHub\\ASPweb\\Baitap02D\\Baitap02D.csproj",
         "projectName": "Baitap02D",
-        "projectPath": "D:\\asp_web\\asp_web-main\\Baitap02D\\Baitap02D.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\.limpc\\OneDrive\\Documents\\GitHub\\ASPweb\\Baitap02D\\Baitap02D.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\asp_web\\asp_web-main\\Baitap02D\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\.limpc\\OneDrive\\Documents\\GitHub\\ASPweb\\Baitap02D\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

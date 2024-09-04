@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oJ1tMsU+HXM=",
+  "dgSpecHash": "REe9DA6QVbc=",
   "success": true,
-  "projectFilePath": "D:\\asp_web\\asp_web-main\\Baitap02D\\Baitap02D.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\.limpc\\OneDrive\\Documents\\GitHub\\ASPweb\\Baitap02D\\Baitap02D.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
